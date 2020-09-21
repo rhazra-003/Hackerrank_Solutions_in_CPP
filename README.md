@@ -1,4 +1,5 @@
 ### Namaste, Ridam is here! 🙏🇮🇳
+## Here are my solutions of Challenges in C for skill developing by Hackerrank.
 
 <!--
 **rhazra-003/rhazra-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
